@@ -5,8 +5,8 @@ function CommunityIcon() {
     <>
       <svg
         fill='#9f9da8'
-        width='34px'
-        height='34px'
+        width='24px'
+        height='24px'
         viewBox='0 0 128 128'
         id='Layer_1'
         version='1.1'
